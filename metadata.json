@@ -1,0 +1,6 @@
+{
+  "name": "HomeEase",
+  "description": "A calm, trusted home-services marketplace connecting Pune homeowners and newcomers with local professionals for quotes, bookings, and home care.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">HomeEase</string>
+    <string name="brand_tagline">Finding reliable home services should feel effortless.</string>
+    <string name="hero_headline">Your Home Deserves Better Care.</string>
+    <string name="hero_subtitle">Find trusted local professionals, compare quotations and book home services without the hassle.</string>
+    <string name="search_placeholder">What does your home need today?</string>
+    <string name="cta_explore_services">Explore Services</string>
+    <string name="default_city">Pune</string>
+    <string name="local_mode_notice">Local On-Device Mode: Accounts, requests, quotations, bookings, and home profiles are stored securely on this device. Cloud sync and live external dispatch require backend configuration.</string>
+</resources>
